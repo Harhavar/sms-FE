@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "rootDir": "./",
+    "paths": {
+      "@/atoms/*": ["src/ui/atoms/*"],
+      "@/molecules/*": ["src/ui/molecules/*"],
+      "@/organisms/*": ["src/ui/organisms/*"],
+      "@/templates/*": ["src/ui/templates/*"],
+      "@/pages/*": ["src/pages/*"],
+      "@/store/*": ["src/store/*"],
+      "@/api/*": ["src/api/*"],
+      "@/config/*": ["src/config/*"],
+      "@/utils/*": ["src/utils/*"],
+      "@/hooks/*": ["src/hooks/*"],
+      "@/services/*": ["src/services/*"],
+      "@/assets/*": ["src/assets/*"]
+    }
+  }
+}
